@@ -1,0 +1,1 @@
+user-name password login-button login_credentials //div[@class="login_password"] //a[@id="item_4_title_link"]//div[@class="inventory_item_name"]

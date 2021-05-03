@@ -1,0 +1,5 @@
+By.id("user-name")
+By.id("password")
+By.id("login-button")
+By.id("login_credentials")
+By.xpath("//div[@class="login_password"]")
